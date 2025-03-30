@@ -55,4 +55,4 @@ HealthWise/
 - The model is trained using labeled symptom data from `dataset.csv`.
 - The trained model is saved as `disease_prediction_model.pkl`.
 
-# predict-disease-ml
+
